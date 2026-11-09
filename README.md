@@ -1,4 +1,4 @@
-The code is easily adaptable to another TCG with the help of recorder.py, opening a chroome driver and recording the button clicked. \
+The code is easily adaptable to another TCG with the help of recorder.py, opening a chroome driver and recording the button clicked. 
 
 browser_driver.py - Chrome process launcher and Playwright helper utilities. \
 config.py - Configuration constants, selectors, and CLI argument parser. \
